@@ -4,14 +4,34 @@
 		GetLatestReleaseInfo();  
 	});  
 	function GetLatestReleaseInfo() {
+		$.getJSON("https://api.github.com/repos/P3D-Legacy/P3D-Legacy-Launcher/releases/latest").done(function (json) {
+			$("#launcher-download-zip").attr("href", json.assets[0].browser_download_url);
+		}); 
 		$.getJSON("https://api.github.com/repos/P3D-Legacy/P3D-Legacy/releases/latest").done(function (json) {
 			$("#game-download-zip").attr("href", json.assets[0].browser_download_url);
 		});
 	}  
 </script>
 
+<h1>P3D-Legacy-Launcher</h1>
+<section id="launcher-description" class="clearfix">
+	<h6>The P3D-Legacy Launcher.</h6>
+</section>
+<section id="launcher-downloads-release" class="clearfix">
+	<h2>Release</h2>
+	<a id="launcher-download-zip" class="button"><span>Download .zip</span></a>
+</section>
+<section id="launcher-downloads-source" class="clearfix">
+	<h2>Source</h2>
+	<a href="https://github.com/P3D-Legacy/P3D-Legacy-Launcher/zipball/master" id="download-zip" class="button"><span>Download .zip</span></a>
+	<a href="https://github.com/P3D-Legacy/P3D-Legacy-Launcher/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
+	<a href="https://github.com/P3D-Legacy/P3D-Legacy-Launcher" id="view-on-github" class="button"><span>View on GitHub</span></a>
+</section>
+
+<hr>
+
 <h1>P3D-Legacy Game</h1>
-<section id="p3d-legacy-description" class="clearfix">
+<section id="game-description" class="clearfix">
 	<!--<h6>DESCRIPTION.</h6>-->
 </section>
 <section id="game-downloads-release" class="clearfix">

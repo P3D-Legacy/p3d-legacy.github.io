@@ -156,6 +156,9 @@ a.button span {
   content:url(../images/p3d-logo.png);
 }
 
+#launcher-download-zip span {
+  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
+}
 #game-download-zip span {
   background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
 }

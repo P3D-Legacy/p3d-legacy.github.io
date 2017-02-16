@@ -31,7 +31,7 @@ Some of the more prominent changes include:
 * Some new GameMode features, including @music.forceplay, @Pokemon.AddSteps, @Pokemon.SetSteps, and more.
 * ...and over 50 bug fixes!
   
-A full list of changes can be found here: [https://github.com/P3D-Legacy/P3D-Legacy/releases](https://github.com/P3D-Legacy/P3D-Legacy/releases)
+A full list of changes can be found **[here](https://github.com/P3D-Legacy/P3D-Legacy/releases)**.
    
 ***Requirements:***  
 **OpenAL Installer for Windows**: [https://www.openal.org](https://www.openal.org)  

@@ -28,7 +28,7 @@ The end of the Rival story arc
 Elite Four power ups  
 Various new Items and Pokémon are available  
   
-[You can find the full (highly detailed) change-log here.](https://github.com/P3D-Legacy/P3D-Legacy/releases)  
+[You can find the full (highly detailed) change-log here.](https://github.com/P3D-Legacy/P3D-Legacy/releases/tag/0.54)  
   
 also OpenAL is now required to play the game:  
 [https://www.openal.org](https://www.openal.org)  

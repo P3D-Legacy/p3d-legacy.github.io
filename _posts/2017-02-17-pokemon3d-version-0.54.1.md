@@ -34,7 +34,7 @@ Some of the more prominent changes include:
 A full list of changes can be found **[here](https://github.com/P3D-Legacy/P3D-Legacy/releases)**.
    
 ***Requirements:***  
-**OpenAL Installer for Windows**: [https://www.openal.org](https://www.openal.org)  
+**[OpenAL Installer for Windows](https://www.openal.org)**.
  
 As always, if you find a bug with the game, please report it **[here](http://pokemon3d.net/forum/forums/6/)**.
  

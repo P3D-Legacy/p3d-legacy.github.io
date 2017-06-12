@@ -4,6 +4,7 @@ title: The Official Pokemon3D Server is back!
 author: Capt_Segis
 ---
 
+# The official server has returned!
 ![server_screen](https://i.redd.it/7egrvu35393z.png)
 
 We, the P3D Team are proud to announce that our long gone Official P3D Server has just been brought back, for you guys to enjoy!

@@ -5,8 +5,8 @@ author:  Tornado9797
 ---
 
 # The official server has returned!  
-![server_screen](https://i.redd.it/7egrvu35393z.png)
-
+![](https://i.redd.it/7egrvu35393z.png)  
+  
 We, the P3D Team are proud to announce that our long gone Official P3D Server has just been brought back, for you guys to enjoy!  
   
 Now using a new server application (created and actively developed by our staff member Aragas), the server has increased performance, with most old bugs fixed compared to it’s state the last time it was online long ago. (namely the random player dropping and lag issues)  

@@ -18,4 +18,4 @@ Address: karp.pokemon3d.net:15124
   
 Feel free to ask any general questions and report any bugs you find regarding the official server in our official discord channel, which you can join by clicking the link below.  
   
-[https://discord.gg/6X6kGP6](https://discord.gg/6X6kGP6)
+[http://www.discord.me/p3d](http://www.discord.me/p3d)

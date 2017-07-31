@@ -36,4 +36,5 @@ So here are the changes we made in this version:
 - Added several sprites mostly made and/or edited by OmegaGhost  
   
 We are currently looking forward on bringing up the next major release of the game very soon, which will feature bigger improvements and more storyline for you guys to enjoy (Maybe Mt. Silver?) so stay tuned :D  
+  
 //The P3D Team

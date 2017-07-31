@@ -4,7 +4,7 @@ title: Pokémon 3D Version Indev 0.54.2
 author: Capt_Segis
 ---
   
-Hello community,  We have decided it was time to release another minor update in order to fix several bugs that were still present in v0.54.1. Some of   these bugs had the chance to disrupt the player's experience in a serious way and were worth a quick patch instead of waiting for the   still upcoming next major release.  So here are the changes we made in this version:    Engine  
+Hello community,    We have decided it was time to release another minor update in order to fix several bugs that were still present in v0.54.1. Some of   these bugs had the chance to disrupt the player's experience in a serious way and were worth a quick patch instead of waiting for the   still upcoming next major release.  So here are the changes we made in this version:    Engine  
 - Fixed fast graphics floor tiles inside the underwater cave.
 - Fixed all issues regarding the Backup Save Feature. Disabled it by default.
 - Hopefully fixed some performance issues regarding offset maps
@@ -20,9 +20,7 @@ Hello community,  We have decided it was time to release another minor update in
 - Added engine support for all remaining pokemon alternate forms
 - Fixed most interactions with King's Rock in battle
 - Fixed Aegislash losing Stance Change permanently under certain conditions
-- Fixed serious performance issues on rendering models in the PC pokemon storage   
-
-Content  
+- Fixed serious performance issues on rendering models in the PC pokemon storage    Content  
 - Fixed an exploit in the E4 maps that allowed the player to get by without battling
 - Fixed Old man script in Five Island
 - Adjusted the prices in the frontier shop

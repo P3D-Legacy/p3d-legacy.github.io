@@ -8,7 +8,6 @@ Hello community,
 We have decided it was time to release another minor update in order to fix several bugs that were still present in v0.54.1.  
 Some of these bugs had the chance to disrupt the player's experience in a serious way and were worth a quick patch instead of waiting for the still upcoming next major release.  
 So here are the changes we made in this version:  
-
 ### Engine  
 - Fixed fast graphics floor tiles inside the underwater cave.
 - Fixed all issues regarding the Backup Save Feature. Disabled it by default.
